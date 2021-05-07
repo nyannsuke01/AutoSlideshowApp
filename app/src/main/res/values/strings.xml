@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AutoSlideshowApp</string>
+    <string name="next">進む</string>
+    <string name="play_and_pause">再生</string>
+    <string name="back">戻る</string>
+    <string name="image_view">imageView</string>
+</resources>
